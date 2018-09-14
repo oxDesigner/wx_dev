@@ -1,0 +1,26 @@
+<view class="index-container">
+  <view class="scroll-container">
+    <view class="scroll-wrapper">
+      <view class="index-item">1</view>
+      <view class="index-item">2</view>
+      <view class="index-item">3</view>
+      <view class="index-item">4</view>
+      <view class="index-item">1</view>
+      <view class="index-item">2</view>
+      <view class="index-item">3</view>
+      <view class="index-item">4</view>
+      <view class="index-item">1</view>
+      <view class="index-item">2</view>
+      <view class="index-item">3</view>
+      <view class="index-item">4</view>
+      <view class="index-item">1</view>
+      <view class="index-item">2</view>
+      <view class="index-item">3</view>
+      <view class="index-item">4</view>
+      <view class="index-item">1</view>
+      <view class="index-item">2</view>
+      <view class="index-item">3</view>
+      <view class="index-item">4</view>
+    </view>
+  </view>
+</view>

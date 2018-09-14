@@ -1,0 +1,9 @@
+$colour-skin: (day: (background: #f5f5f5, color: #333), night: (background: #333, color: #f5f5f5));
+
+@each $item in map-keys($colour-skin) {
+  .#{$item}-container {
+    @each $key in map-keys(map-get($colour-skin, $item)){
+      #{$key}: map-get(map-get($colour-skin, $item), $key);
+    }
+  }
+}

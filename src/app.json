@@ -1,0 +1,36 @@
+{
+  "pages": "",
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "演示",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "page/index/index",
+        "iconPath": "image/icon/icon2.png",
+        "selectedIconPath": "image/icon/icon1.png",
+        "text": "首页"
+      }, 
+      {
+        "pagePath": "page/log/log",
+        "iconPath": "image/icon/icon4.png",
+        "selectedIconPath": "image/icon/icon3.png",
+        "text": "log"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": false
+}

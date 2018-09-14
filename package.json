@@ -1,0 +1,23 @@
+{
+  "name": "wenjianbao-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfiles.js",
+  "scripts": {
+    "dev": "gulp --env=dev",
+    "beta": "gulp dist --env=beta",
+    "prod": "gulp dist --env=prod"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-tap": "^1.0.1",
+    "gulp-webpack": "^1.5.0",
+    "minimist": "^1.2.0"
+  }
+}

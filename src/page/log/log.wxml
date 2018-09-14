@@ -1,0 +1,6 @@
+<view class="log-container">
+  <view class="log-item">1</view>
+  <view class="log-item">2</view>
+  <view class="log-item">3</view>
+  <view class="log-item">4</view>
+</view>
